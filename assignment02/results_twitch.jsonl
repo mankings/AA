@@ -1,0 +1,6 @@
+{"DE_9498_153138": {"times": [600.0234907009999], "operation_counts": [2409209792], "set_sizes": [290], "combinations_tested": [25343], "stop_conditions": ["time_limit"]}}
+{"ENGB_7126_35324": {"times": [600.025468115], "operation_counts": [2904300331], "set_sizes": [299], "combinations_tested": [40726], "stop_conditions": ["time_limit"]}}
+{"ES_4648_59382": {"times": [600.0529045530002], "operation_counts": [2378418261], "set_sizes": [230], "combinations_tested": [51095], "stop_conditions": ["time_limit"]}}
+{"FR_6549_112666": {"times": [600.0263684130005], "operation_counts": [2377989238], "set_sizes": [251], "combinations_tested": [36272], "stop_conditions": ["time_limit"]}}
+{"PTBR_1912_31299": {"times": [245.80465927099976], "operation_counts": [1920031540], "set_sizes": [134], "combinations_tested": [100000], "stop_conditions": ["iterations"]}}
+{"RU_4385_37304": {"times": [600.0329196410003], "operation_counts": [3759712784], "set_sizes": [252], "combinations_tested": [85613], "stop_conditions": ["time_limit"]}}
